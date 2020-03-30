@@ -29,8 +29,7 @@ repeatedly at the preferred time intervals (e.g. bi-weekly, monthly).
 The Baseline form takes 10-12 minutes for completion and the Follow up
 Form takes about 5-7 minutes for completion.
 
-**A. Baseline Form:**
-
+**A. Baseline Form:**  
   - Background
   - Coronavirus/covid-19 health/exposure status  
   - Life changes due to coronavirus/covid-19 crisis in the last two weeks  
@@ -39,8 +38,7 @@ Form takes about 5-7 minutes for completion.
   - Media use three months prior to crisis/ past two weeks  
   - Substance use three months prior to crisis / past two weeks  
 
-**B. Follow up Form: bi-weekly, monthly**
-
+**B. Follow up Form: bi-weekly, monthly**  
   - Coronavirus/covid-19 health/exposure status  
   - Life changes due to coronavirus/covid-19 crisis in the last two weeks  
   - Daily behaviors past two weeks  

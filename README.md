@@ -9,18 +9,17 @@ The following information is also available in `CRISIS V 0.1 Usage Form.docx`.
 
 The CRISIS questionnaires were developed through a collaborative effort between the research teams of Kathleen Merikangas and Argyris Stringaris at the National Institute of Mental Health Intramural Research Program Mood Spectrum Collaboration, and those of Michael P. Milham at the Child Mind Institute and the NYS Nathan S. Kline Institute for Psychiatric Research. There are a number of items, e.g. race, education and other demographic information that could be adapted for the country where they are being used. Translation are ongoing, please write to us (Argyris.Stringaris@nih.gov) for back-translations/permissions.
 
-**The CRISIS interview** has three versions:
+**CRISIS** includes:
 
-**Adult Self Report**
+  - Adult Self Report  
 
-**Youth (9-18) Self Report**
+  - Youth (9-18) Self Report  
 
-**Parent/Caregiver Report about Child**
+  - Parent/Caregiver Report about Child  
 
 For each there are two forms: The Baseline form, that should be done at
 the first administration and the Follow up form that should be done
-repeatedly at the preferred time intervals (e.g. bi-weekly, monthly).
-
+repeatedly at the preferred time intervals (e.g. bi-weekly, monthly). 
 The Baseline form takes 10-12 minutes for completion and the Follow up
 Form takes about 5-7 minutes for completion.
 

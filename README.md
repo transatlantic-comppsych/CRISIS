@@ -1,7 +1,8 @@
-The **C**o**R**onav**I**ru**S** Health **I**mpact **S**urvey (CRISIS)
-V0.1
+# The **C**o**R**onav**I**ru**S** Health **I**mpact **S**urvey (CRISIS) V0.1
 
-> **<span class="underline">USAGE NOTES </span>**
+
+## USAGE NOTES
+
 
 **Attribution License:** CC-BY-4.0
 ([<span class="underline">https://creativecommons.org/licenses/by/4.0/</span>](https://creativecommons.org/licenses/by/4.0/))
@@ -13,13 +14,13 @@ Mood Spectrum Collaboration, and those of Michael P. Milham at the Child
 Mind Institute and the NYS Nathan S. Kline Institute for Psychiatric
 Research.
 
-**The CRISIS interview** has three versions**: **
+**The CRISIS interview** has three versions:
 
 **Adult Self Report**
 
 **Youth (9-18) Self Report**
 
-**Parent/Caregiver Report about Child. **
+**Parent/Caregiver Report about Child**
 
 For each there are two forms: The Baseline form, that should be done at
 the first administration and the Follow up form that should be done
@@ -28,7 +29,7 @@ repeatedly at the preferred time intervals (e.g. bi-weekly, monthly).
 The Baseline form takes 10-12 minutes for completion and the Follow up
 Form takes about 5-7 minutes for completion.
 
-**A. Baseline Form: **
+**A. Baseline Form:**
 
   - Background
   - Coronavirus/covid-19 health/exposure status  

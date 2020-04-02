@@ -9,7 +9,7 @@ The following information is also available in `CRISIS V 0.2 Usage Form.docx`.
 
 The CRISIS questionnaires were developed through a collaborative effort between the research teams of Kathleen Merikangas and Argyris Stringaris at the National Institute of Mental Health Intramural Research Program Mood Spectrum Collaboration, and those of Michael P. Milham at the Child Mind Institute and the NYS Nathan S. Kline Institute for Psychiatric Research. There are a number of items, e.g. race, education and other demographic information that could be adapted for the country where they are being used. Translation are ongoing, please write to us (Argyris.Stringaris@nih.gov) for back-translations/permissions.
 
-**CRISIS** includes:
+**CRISIS** includes _Standard_ and _Short (labelled as short)_ forms of the following:
 
   - Adult Self Report  
 
@@ -40,6 +40,6 @@ Form takes about 5-7 minutes for completion.
   - Media use past two weeks  
   - Substance use past two weeks
 
-## Previous versions
+## Version History
+Word documents with track changes are available in the Changes directory.  
   - [v0.1](https://github.com/nimh-mbdu/CRISIS/tree/d94bae3eba7b225f89fb310eae881d1d73ee9126)  
-  

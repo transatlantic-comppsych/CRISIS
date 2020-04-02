@@ -1,8 +1,8 @@
-# The **C**o**R**onav**I**ru**S** Health **I**mpact **S**urvey (CRISIS) V0.1
+# The **C**o**R**onav**I**ru**S** Health **I**mpact **S**urvey (CRISIS) V0.2
 
 
 ## USAGE NOTES
-The following information is also available in `CRISIS V 0.1 Usage Form.docx`.
+The following information is also available in `CRISIS V 0.2 Usage Form.docx`.
 
 **Attribution License:** CC-BY-4.0
 ([<span class="underline">https://creativecommons.org/licenses/by/4.0/</span>](https://creativecommons.org/licenses/by/4.0/))
@@ -39,3 +39,7 @@ Form takes about 5-7 minutes for completion.
   - Emotions/worries past two weeks  
   - Media use past two weeks  
   - Substance use past two weeks
+
+## Previous versions
+  - [v0.1](https://github.com/nimh-mbdu/CRISIS/tree/d94bae3eba7b225f89fb310eae881d1d73ee9126)  
+  

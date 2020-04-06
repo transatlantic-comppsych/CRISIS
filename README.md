@@ -40,6 +40,11 @@ Form takes about 5-7 minutes for completion.
   - Media use past two weeks  
   - Substance use past two weeks
 
+## Translations
+Translations are available in the Translations directory.  
+Current translations:  
+  - Hebrew
+
 ## Version History
 Word documents with track changes are available in the Changes directory.  
   - [v0.1](https://github.com/nimh-mbdu/CRISIS/tree/d94bae3eba7b225f89fb310eae881d1d73ee9126)  

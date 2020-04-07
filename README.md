@@ -44,6 +44,7 @@ Form takes about 5-7 minutes for completion.
 Translations are available in the Translations directory.  
 Current translations:  
   - Hebrew
+  - Greek
 
 ## Version History
 Word documents with track changes are available in the Changes directory.  

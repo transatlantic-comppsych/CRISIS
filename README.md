@@ -45,6 +45,7 @@ Translations are available in the Translations directory.
 Current translations:  
   - Hebrew
   - Greek
+  - German
 
 ## Version History
 Word documents with track changes are available in the Changes directory.  

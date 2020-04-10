@@ -9,7 +9,7 @@ The following information is also available in `CRISIS V 0.2 Usage Form.docx`.
 
 The CRISIS questionnaires were developed through a collaborative effort between the research teams of Kathleen Merikangas and Argyris Stringaris at the National Institute of Mental Health Intramural Research Program Mood Spectrum Collaboration, and those of Michael P. Milham at the Child Mind Institute and the NYS Nathan S. Kline Institute for Psychiatric Research. There are a number of items, e.g. race, education and other demographic information that could be adapted for the country where they are being used. Translation are ongoing, please write to us (Argyris.Stringaris@nih.gov) for back-translations/permissions.
 
-**CRISIS** includes _Standard_ and _Short (labelled as short)_ forms of the following:
+**CRISIS** includes _Standard_ and _Current (labelled as current)_ forms of the following:
 
   - Adult Self Report  
 
@@ -49,4 +49,5 @@ Current translations:
 
 ## Version History
 Word documents with track changes are available in the Changes directory.  
-  - [v0.1](https://github.com/nimh-mbdu/CRISIS/tree/d94bae3eba7b225f89fb310eae881d1d73ee9126)  
+  - [v0.1](https://github.com/nimh-mbdu/CRISIS/tree/d94bae3eba7b225f89fb310eae881d1d73ee9126)
+  - [v0.2](https://github.com/nimh-mbdu/CRISIS/tree/e59fd2603f0b10158fbd5d38d4e6e183ecdc0f23) 

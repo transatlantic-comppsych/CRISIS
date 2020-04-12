@@ -7,42 +7,36 @@ The following information is also available in `CRISIS V 0.3 Usage Form.docx`.
 **Attribution License:** CC-BY-4.0
 ([<span class="underline">https://creativecommons.org/licenses/by/4.0/</span>](https://creativecommons.org/licenses/by/4.0/))
 
-The CRISIS questionnaires were developed through a collaborative effort between the research teams of Kathleen Merikangas and Argyris Stringaris at the National Institute of Mental Health Intramural Research Program Mood Spectrum Collaboration, and those of Michael P. Milham at the Child Mind Institute and the NYS Nathan S. Kline Institute for Psychiatric Research. There are a number of items, e.g. race, education and other demographic information that could be adapted for the country where they are being used. Translation are ongoing, please write to us (Argyris.Stringaris@nih.gov) for back-translations/permissions.
+The CRISIS questionnaires were developed through a collaborative effort between the research teams of Kathleen Merikangas and Argyris Stringaris at the National Institute of Mental Health Intramural Research Program Mood Spectrum Collaboration, and those of Michael P. Milham at the Child Mind Institute and the New York State Nathan S. Kline Institute for Psychiatric Research. There are a number of items, e.g. race, education and other demographic information that could be adapted for the country where they are being used. Translations are ongoing, please write to us (Argyris.Stringaris@nih.gov) for back-translations/permissions. These forms are also available at [cisissurvey.org](crisissurvey.org).
 
-**CRISIS** includes _Standard_ and _Current (labelled as current)_ forms of the following:
-
-  - Adult Self Report  
-
-  - Youth (9-18) Self Report  
-
-  - Parent/Caregiver Report about Child  
-
-For each there are two forms: The Baseline form, that should be done at
-the first administration and the Follow up form that should be done
-repeatedly at the preferred time intervals (e.g. bi-weekly, monthly). 
-The Baseline form takes 10-12 minutes for completion and the Follow up
-Form takes about 5-7 minutes for completion.
-
-**A. Baseline Form:**  
-  - Background
+## CRISIS Description  
+### Measures
+The CRISIS questionnaires include the following domains:
+  - Background (e.g., Demographics, Health, Family/living situation)  
   - Coronavirus/covid-19 health/exposure status  
-  - Life changes due to coronavirus/covid-19 crisis in the last two weeks  
-  - Daily behaviors three months prior to crisis / past two weeks  
-  - Emotions/worries three months prior to crisis / past two weeks  
-  - Media use three months prior to crisis/ past two weeks  
-  - Substance use three months prior to crisis / past two weeks  
+  - Life changes due to coronavirus/covid-19 crisis   
+  - Daily behaviors (e.g., sleep, physical activity, time outdoors)  
+  - Emotions/worries (e.g., mood circumplex)  
+  - Media use (e.g., mobile devices, media, etc.)  
+  - Substance use (e.g., tobacco, alcohol, other drugs)  
 
-**B. Follow up Form: bi-weekly, monthly**  
-  - Coronavirus/covid-19 health/exposure status  
-  - Life changes due to coronavirus/covid-19 crisis in the last two weeks  
-  - Daily behaviors past two weeks  
-  - Emotions/worries past two weeks  
-  - Media use past two weeks  
-  - Substance use past two weeks
+### Versions
+There are four versions of the CRISIS questionnaires:
+
+  1. **BASELINE FORM** that is completed at the first contact and includes the following sections: (1) a Background section that obtains some basic demographic information; (2) **Past Three Month** assessment of the survey domains shown below; and (3) **Past Two Week** assessment of the same domains;
+
+  2. **BASELINE CURRENT FORM** that is a shorter version of the BASELINE FORM that excludes the Past Three-Month assessment;
+
+  3. **FOLLOW UP FORM** that assesses the same domains across optional time study-specific periods (e.g., weekly, bi-weekly, monthly); 
+
+  4. **FOLLOW UP CURRENT FORM** that does not ask about disruption of supports.  
+
+  The Baseline takes about 10-12 minutes and the Follow Up about 5-7 minutes.
+
 
 ## Translations
 Translations are available in the Translations directory.  
-Current translations:  
+v0.2 translations:  
   - Hebrew
   - Greek
   - German

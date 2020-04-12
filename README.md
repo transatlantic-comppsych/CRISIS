@@ -1,8 +1,8 @@
-# The **C**o**R**onav**I**ru**S** Health **I**mpact **S**urvey (CRISIS) V0.2
+# The **C**o**R**onav**I**ru**S** Health **I**mpact **S**urvey (CRISIS) V0.3
 
 
 ## USAGE NOTES
-The following information is also available in `CRISIS V 0.2 Usage Form.docx`.
+The following information is also available in `CRISIS V 0.3 Usage Form.docx`.
 
 **Attribution License:** CC-BY-4.0
 ([<span class="underline">https://creativecommons.org/licenses/by/4.0/</span>](https://creativecommons.org/licenses/by/4.0/))

@@ -7,7 +7,7 @@ The following information is also available in `CRISIS V 0.3 Usage Form.docx`.
 **Attribution License:** CC-BY-4.0
 ([<span class="underline">https://creativecommons.org/licenses/by/4.0/</span>](https://creativecommons.org/licenses/by/4.0/))
 
-The CRISIS questionnaires were developed through a collaborative effort between the research teams of Kathleen Merikangas and Argyris Stringaris at the National Institute of Mental Health Intramural Research Program Mood Spectrum Collaboration, and those of Michael P. Milham at the Child Mind Institute and the New York State Nathan S. Kline Institute for Psychiatric Research. There are a number of items, e.g. race, education and other demographic information that could be adapted for the country where they are being used. Translations are ongoing, please write to us (Argyris.Stringaris@nih.gov) for back-translations/permissions. These forms are also available at [cisissurvey.org](crisissurvey.org).
+The CRISIS questionnaires were developed through a collaborative effort between the research teams of Kathleen Merikangas and Argyris Stringaris at the National Institute of Mental Health Intramural Research Program Mood Spectrum Collaboration, and those of Michael P. Milham at the Child Mind Institute and the New York State Nathan S. Kline Institute for Psychiatric Research. There are a number of items, e.g. race, education and other demographic information that could be adapted for the country where they are being used. Translations are ongoing, please write to us (Argyris.Stringaris@nih.gov) for back-translations/permissions. These forms are also available at [crisissurvey.org](http://www.crisissurvey.org/).
 
 ## CRISIS Description  
 ### Measures

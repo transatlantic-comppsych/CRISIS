@@ -1,5 +1,6 @@
 # The **C**o**R**onav**I**ru**S** Health **I**mpact **S**urvey (CRISIS) V0.3
 
+If you are unfamiliar with GitHub, you can also read information about the CRISIS survey at crisissurvey.org(http://www.crisissurvey.org/) or just [download the forms directly](http://www.crisissurvey.org/wp-content/uploads/2020/04/CRISIS-V0.3.zip).
 
 ## USAGE NOTES
 The following information is also available in `CRISIS V 0.3 Usage Form.docx`.

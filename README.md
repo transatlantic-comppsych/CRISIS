@@ -41,6 +41,8 @@ v0.2 translations:
   - Hebrew
   - Greek
   - German
+v0.3 translations:
+  - Spanish
 
 ## Version History
 Word documents with track changes are available in the Changes directory.  

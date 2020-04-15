@@ -37,6 +37,8 @@ There are four versions of the CRISIS questionnaires:
 
 ## Translations
 Translations are available in the Translations directory.  
+v0.1.5 translations:
+  - Turkish
 v0.2 translations:  
   - Hebrew
   - Greek

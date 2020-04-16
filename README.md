@@ -41,13 +41,15 @@ v0.1.5 translations:
   - Turkish
 v0.2 translations:  
   - Hebrew
-  - Greek
   - German
 v0.3 translations:
   - Spanish
-  - Brazilian Portuguese
+  - Brazilian Portuguese (Adult Baseline)
+  - Greek
+
 
 ## Version History
-Word documents with track changes are available in the Changes directory.  
+Word documents with track changes for English versions are available in the Changes directory.  
   - [v0.1](https://github.com/nimh-mbdu/CRISIS/tree/d94bae3eba7b225f89fb310eae881d1d73ee9126)
-  - [v0.2](https://github.com/nimh-mbdu/CRISIS/tree/e59fd2603f0b10158fbd5d38d4e6e183ecdc0f23) 
+  - [v0.2](https://github.com/nimh-mbdu/CRISIS/tree/e59fd2603f0b10158fbd5d38d4e6e183ecdc0f23)
+  - [v0.2 Greek](https://github.com/nimh-mbdu/CRISIS/tree/d0ee92f6cc23530b4aca2a823bdb74f98a040e1f/Translations/Greek)

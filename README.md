@@ -45,6 +45,7 @@ v0.2 translations:
   - German
 v0.3 translations:
   - Spanish
+  - Brazilian Portuguese
 
 ## Version History
 Word documents with track changes are available in the Changes directory.  

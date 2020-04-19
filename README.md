@@ -38,7 +38,7 @@ There are four versions of the CRISIS questionnaires:
 ## Translations
 Translations are available in the Translations directory.  
 v0.1.5 translations:
-  - Turkish
+  - Turkish (Baseline and Follow Up)
 v0.2 translations:  
   - Hebrew
   - German
@@ -46,6 +46,7 @@ v0.3 translations:
   - Spanish
   - Brazilian Portuguese (Adult Baseline)
   - Greek
+  - Turkish (Current Forms)
 
 
 ## Version History
@@ -53,3 +54,4 @@ Word documents with track changes for English versions are available in the Chan
   - [v0.1](https://github.com/nimh-mbdu/CRISIS/tree/d94bae3eba7b225f89fb310eae881d1d73ee9126)
   - [v0.2](https://github.com/nimh-mbdu/CRISIS/tree/e59fd2603f0b10158fbd5d38d4e6e183ecdc0f23)
   - [v0.2 Greek](https://github.com/nimh-mbdu/CRISIS/tree/d0ee92f6cc23530b4aca2a823bdb74f98a040e1f/Translations/Greek)
+  - [v0.1.5 Turkish](https://github.com/nimh-mbdu/CRISIS/tree/fac6b3b029083b3a68bd459ec14373070db338f8/Translations/Turkish)

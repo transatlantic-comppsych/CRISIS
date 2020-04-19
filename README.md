@@ -47,6 +47,7 @@ v0.3 translations:
   - Brazilian Portuguese (Adult Baseline)
   - Greek
   - Turkish (Current Forms)
+  - French (Baseline Forms)
 
 
 ## Version History

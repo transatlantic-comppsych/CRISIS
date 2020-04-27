@@ -44,7 +44,7 @@ v0.2 translations:
   - German
 v0.3 translations:
   - Spanish
-  - Brazilian Portuguese (Adult Baseline)
+  - Brazilian Portuguese (Baseline Forms)
   - Greek
   - Turkish (Current Forms)
   - French (Baseline Forms)

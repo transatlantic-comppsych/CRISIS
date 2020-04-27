@@ -48,6 +48,7 @@ v0.3 translations:
   - Greek
   - Turkish (Current Forms)
   - French (Baseline Forms)
+  - Swedish (Adult Current)
 
 
 ## Version History

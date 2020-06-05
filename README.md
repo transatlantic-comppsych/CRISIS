@@ -50,6 +50,10 @@ v0.3 translations:
   - French (Baseline Forms)
   - Swedish (Adult Current)
 
+## Adaptations
+Adaptations of the CRISIS survey to additional populations are available in the Adaptations directory.  
+  - Autism and related neurodevelopmental conditions (AFAR; Baseline Parent Form)
+
 
 ## Version History
 Word documents with track changes for English versions are available in the Changes directory.  

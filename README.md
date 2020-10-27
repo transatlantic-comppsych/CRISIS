@@ -49,7 +49,7 @@ v0.3 translations:
   - Turkish (Current Forms)
   - French (Baseline Forms)
   - Swedish (Adult Current)
-  - Mandarin
+  - Mandarin (Simplified)
 
 ## Adaptations
 Adaptations of the CRISIS survey to additional populations are available in the Adaptations directory.  

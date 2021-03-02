@@ -63,3 +63,4 @@ Word documents with track changes for English versions are available in the Chan
   - [v0.2 Greek](https://github.com/nimh-mbdu/CRISIS/tree/d0ee92f6cc23530b4aca2a823bdb74f98a040e1f/Translations/Greek)
   - [v0.1.5 Turkish](https://github.com/nimh-mbdu/CRISIS/tree/fac6b3b029083b3a68bd459ec14373070db338f8/Translations/Turkish)
   - [v0.5.0 AFAR](https://github.com/nimh-mbdu/CRISIS/tree/6cd52e73d0dd2cc2eb5ffc68c9700991b90336a5/Adaptations/AFAR)
+  - [v0.5.1 AFAR](https://github.com/nimh-comppsych/CRISIS/tree/7288e2a084b16f43bca56c0cdc733e3d75b38ed4/Adaptations/AFAR)
